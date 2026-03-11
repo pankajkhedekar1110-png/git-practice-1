@@ -1,3 +1,7 @@
 test(){
+<<<<<<< Branch-B
 this.abc=13;
+=======
+this.abc=11;
+>>>>>>> master
 }
